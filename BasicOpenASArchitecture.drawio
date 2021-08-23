@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T20:59:16.636Z" agent="5.0 (Macintosh)" etag="s199koqYhljzc_-XcLT4" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T21:02:40.633Z" agent="5.0 (Macintosh)" etag="vzi46NPYmV5IF4rgzLSC" version="14.9.8" type="github">
   <diagram id="STftFAOf07w2NZ2gwKN3" name="Page-1">
     <mxGraphModel dx="1113" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="W1S93faNQaFVtEviE0-H-20" value="Randomly chosen endcap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W1S93faNQaFVtEviE0-H-23" value="Possible Public Domain streaming integration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
